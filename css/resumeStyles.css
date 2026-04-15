@@ -1,0 +1,64 @@
+.resume{
+
+    border: 5px solid black;
+    margin-top: 50px;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-bottom: 50px;
+    padding: 20px;
+    border-width: 2px;
+    background-color: white;
+ 
+}
+
+body{
+    background-color:gainsboro;
+}
+
+.description{
+    margin-left: 50px;
+}
+
+h1{
+    text-align: center;
+}
+
+ul{
+    display: inline-block;   
+    text-align: left;     
+    list-style-position: inside;
+    margin-top: 0.5px;
+}
+
+.line{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    
+     }
+
+.position{
+    font-style: italic;
+    line-height: 0px;
+}
+
+.subsection{
+    line-height: 0px;
+}
+.location{
+   line-height: 0px;
+margin-top: 0px;
+margin-bottom: 0px;
+padding: 0 ;
+}
+
+.date{
+   line-height: 0px;
+margin-top: 0px;
+margin-bottom: 0px;
+padding: 0 ;
+}
+
+.return{
+    text-align: center;
+}
